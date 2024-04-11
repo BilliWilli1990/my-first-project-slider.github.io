@@ -348,7 +348,6 @@ h1 {
   border-radius: 10px;
   cursor: pointer;
 }
-
 @media (max-width: 1920px) {
   .main-paragrath {
     max-width: 1600px;
@@ -364,7 +363,7 @@ h1 {
   }
 
   .slider-nav {
-    margin-top: 210px;
+    margin-top: 70px;
   }
 
   .text-main {
@@ -382,13 +381,13 @@ h1 {
   }
 
   .swiper {
-    width: 750px;
-    height: 750px;
+    width: 570px;
+    height: 570px;
   }
 
   .slider-section img {
-    height: 500px;
-    width: 800px;
+    height: 350px;
+    width: 700px;
   }
 
   .main-paragrath {
@@ -471,7 +470,7 @@ h1 {
 
   .slider-section img {
     height: 250px;
-    width: 450px;
+    width: 500px;
   }
 
   .wrapper {
@@ -528,27 +527,27 @@ h1 {
   }
 
   .slider-nav {
-    margin-top: 10px;
+    margin-top: 3px;
   }
 
   .slider-nav a {
-    width: 20pt;
-    height: 16pt;
-    font-size: 14pt;
+    width: 18pt;
+    height: 14pt;
+    font-size: 10pt;
   }
 
   .swiper {
-    width: 340px;
-    height: 340px;
+    width: 250px;
+    height: 250px;
   }
   
   .slider-section {
-    height: 220px;
+    height: 160px;
   }
   
   .slider-section img {
-    height: 250px;
-    width: 450px;
+    height: 160px;
+    width: 400px;
   }
 
   .wrapper {
@@ -592,12 +591,12 @@ h1 {
   }
 
   .slider-nav {
-    margin-top: 70px;
+    margin-top: 95px;
   }
 
   .swiper {
-    width: 270px;
-    height: 270px;
+    width: 250px;
+    height: 250px;
   }
 
   .slider-section img {
@@ -674,8 +673,8 @@ h1 {
   }
 
   .slider-section img {
-    height: 250px;
-    width: 300px;
+    height: 210px;
+    width: 250px;
   }
 
   .slider-nav {
@@ -702,8 +701,8 @@ h1 {
   }
 
   h1 {
-    font-size: 18px;
-    margin-top: 12px;
+    font-size: 16px;
+    margin-top: 16px;
   }
 
   .input_title {
@@ -732,3 +731,24 @@ h1 {
   }
 }
 
+   
+
+  
+ 
+ 
+
+
+
+
+
+
+
+  
+   
+
+  
+ 
+  
+  
+
+  
