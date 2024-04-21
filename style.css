@@ -591,17 +591,17 @@ h1 {
   }
 
   .slider-nav {
-    margin-top: 95px;
+    margin-top: 20px;
   }
 
   .swiper {
-    width: 250px;
-    height: 250px;
+    width: 230px;
+    height: 230px;
   }
 
   .slider-section img {
-    height: 250px;
-    width: 300px;
+    height: 160px;
+    width: 280px;
   }
 
   .slider-nav {
@@ -609,9 +609,9 @@ h1 {
     flex-wrap: wrap;
   }
   .slider-nav a {
-    width: 20pt;
-    height: 16pt;
-    font-size: 14pt;
+    width: 16pt;
+    height: 15pt;
+    font-size: 10pt;
   }
 
   .main-paragrath {
@@ -668,13 +668,13 @@ h1 {
   }
 
   .swiper {
-    width: 240px;
-    height: 240px;
+    width: 230px;
+    height: 230px;
   }
 
   .slider-section img {
-    height: 210px;
-    width: 250px;
+    height: 150px;
+    width: 230px;
   }
 
   .slider-nav {
@@ -682,9 +682,9 @@ h1 {
     flex-wrap: wrap;
   }
   .slider-nav a {
-    width: 20pt;
-    height: 16pt;
-    font-size: 14pt;
+    width: 16pt;
+    height: 15pt;
+    font-size: 10pt;
   }
 
 
