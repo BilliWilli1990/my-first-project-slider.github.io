@@ -546,8 +546,12 @@ h1 {
   }
   
   .slider-section img {
-    height: 160px;
+    height: 150px;
     width: 400px;
+  }
+
+  .text-strelki {
+    overflow: hidden;
   }
 
   .wrapper {
@@ -600,8 +604,12 @@ h1 {
   }
 
   .slider-section img {
-    height: 160px;
+    height: 140px;
     width: 280px;
+  }
+  
+  .text-strelki {
+    overflow: hidden;
   }
 
   .slider-nav {
@@ -673,10 +681,14 @@ h1 {
   }
 
   .slider-section img {
-    height: 150px;
+    height: 130px;
     width: 230px;
   }
-
+  
+  .text-strelki {
+    overflow: hidden;
+  }
+  
   .slider-nav {
     display: flex;
     flex-wrap: wrap;
