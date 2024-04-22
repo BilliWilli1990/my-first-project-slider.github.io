@@ -473,6 +473,10 @@ h1 {
     width: 500px;
   }
 
+  .text-strelki {
+    display: none;
+  }
+  
   .wrapper {
     width: auto;
   }
@@ -551,7 +555,7 @@ h1 {
   }
 
   .text-strelki {
-    overflow: hidden;
+    display: none;
   }
 
   .wrapper {
@@ -609,7 +613,7 @@ h1 {
   }
   
   .text-strelki {
-    overflow: hidden;
+    display: none;
   }
 
   .slider-nav {
@@ -686,7 +690,7 @@ h1 {
   }
   
   .text-strelki {
-    overflow: hidden;
+    display: none;
   }
   
   .slider-nav {
